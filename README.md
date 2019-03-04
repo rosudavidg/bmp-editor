@@ -78,4 +78,5 @@ completare a zonelor:
 		- La sfarsit, toti pixelii din interiorul zonelor vor fi completati.
 	- Se roteste poza
 	- Se afiseaza cele doua headere si poza in fisierul specificat.
+	
 ```
